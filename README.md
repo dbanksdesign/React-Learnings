@@ -14,6 +14,8 @@ http://www.christianalfoni.com/articles/2015_11_16_Flux-vs-Single-State-Tree
 ### Beyond the to-do app: Writing complex applications using Flux & React JS
 https://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js
 
+https://github.com/pauldijou/redux-act
+
 
 ## Webpack / Build Systems
 
@@ -34,3 +36,10 @@ Long how-to, less why
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
 Good in-depth tutorial and code walk-through.
+
+
+https://css-tricks.com/learning-react-router/
+https://css-tricks.com/learning-react-container-components/
+https://css-tricks.com/learning-react-redux/
+
+https://github.com/bradwestfall/CSS-Tricks-React-Series/blob/master/guide-3-redux/docs/action-strategies.md
